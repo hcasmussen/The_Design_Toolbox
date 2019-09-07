@@ -2,23 +2,23 @@
 
 <ToolBox>
 <SECTION>
-<TITLE>Overblik</TITLE>
+<TITLE>OVERVIEW</TITLE>
 
 <CARD>
-<TITLE>DESIGNVÆRKTØJSKASSEN</TITLE>
+<TITLE>THE DESIGN TOOLBOX</TITLE>
 <TEXT>Designværktøjskassen er en kasse fyldt med ideer til hvordan I kan lave en designløsning. I bestemmer helt selv hvilke metoder I vil benytte – og hvor meget I vil arbejde med dem. Der er ingen helt rigtige eller helt forkerte løsninger – det er ok at have det sjovt. Første gang I bruger kassen, skal I lære hvordan den fungerer – når vi har gennemgået det, kan I selv bruge metoderne til at løse problemer og få ideer. Designværktøjskassen er i sig selv en prototype – den vil ændres og udvikle sig når vi bruger den. Nogle kort ryger ud andre kommer ind – det kommer alt sammen an på, hvordan kassen virker når vi begynder at bruge den. God fornøjelse! </TEXT>
 <CITATION></CITATION>
 </CARD>
 
 <CARD>
-<TITLE>DOBBELTDIAMANTEN</TITLE>
+<TITLE>THE DOUBLE DIAMOND</TITLE>
     <!-- ILLUSTRATION in SVG to come -->
 <TEXT>ILLUSTRATION</TEXT>
 <CITATION>https://www.designcouncil.org.uk/news-opinion/what-framework-innovation-design-councils-evolved-double-diamond</CITATION>
 </CARD>
 
 <CARD>
-<TITLE>Er DET GJORT FØR?</TITLE>
+<TITLE>HAS THIS BEEN DONE BEFORE?</TITLE>
 <TEXT>Kig kritisk på jeres problem. 
 Er det allerede blevet løst? 
 Er andre, lignende, problemer blevet løst på en måde, som kan give jer ideer? 
@@ -27,21 +27,21 @@ Det her drejer sig om at undgå tidsspilde. Det er lidt ærgerligt, at bruge en 
 </CARD>
 
 <CARD>
-<TITLE>TEGNESERIE</TITLE>
+<TITLE>CARTOON</TITLE>
   <!-- ILLUSTRATION in SVG to come -->
 <TEXT>Lav en kort tegneserie som beskriver det problem I vil løse. Det her hjælper jer til at få overblik – og måske se jeres problem fra en helt ny vinkel.</TEXT>
 <CITATION></CITATION>
 </CARD>
 
 <CARD>
-<TITLE>HVAD KUNNE GÅ GALT?</TITLE>
+<TITLE>WHAT COULD GO WRONG?</TITLE>
 <TEXT>Problemer, problemer, problemer…
 Hvis I kigger på det i vil arbejde med, hvad kunne så give problemer for jer og brugerne? – med andre ord, hvad kunne gå galt? Det her er en effektiv måde, at undgå de helt store problemer. Hvis I kan være ærlige overfor hinanden og kigge kritisk på jeres emne, så vil I hurtigt kunne droppe mindre gode emner og ideer.  </TEXT>
 <CITATION></CITATION>
 </CARD>
 
 <CARD>
-<TITLE>7 TING…</TITLE>
+<TITLE>7 THINGS</TITLE>
 <TEXT>1 Formål, 2 Produkt, 3 Personer, 4 Proces, 5 Udfordringer, 7 Praktiske forhold, 6 Forberedelser
   1 – hvorfor vil i arbejde med jeres problem?
   2 – hvad er det, helt præcist, I vil lave?
@@ -54,7 +54,7 @@ Hvis I kigger på det i vil arbejde med, hvad kunne så give problemer for jer o
 </CARD>
 
 <CARD>
-<TITLE>ORDBOG</TITLE>
+<TITLE>DICTIONARY</TITLE>
 <TEXT>Bruger – Den som skal bruge vores løsning.
 Design – At lægge en plan for at løse et problem – og gøre det!
 Løsningen – Den måde vi løser problemet på.
@@ -66,7 +66,7 @@ Undersøgelse – At finde ud af om problemet kan løses og hvem der er den del 
 </CARD>
 
 <CARD>
-<TITLE>Prototyper</TITLE>
+<TITLE>PROTOTYPES</TITLE>
 <TEXT>lav en model af jeres løsning/ide 
 – I kan bruge hvad som helst til at lave en prototype. Et par stole kan blive til et klasseværelse og et stykke pap kan være en mobil. Prototypen hjælper jer til at gennemprøve jeres ide i den virkelige verden. 
 Prototyper og modeller er designerens grundværktøjer. Ideer skal afprøves i praksis. Det giver jer mulighed for at se om I er på rette vej mod en løsning af jeres problem. Igennem designprocessen bliver prototyperne mere og mere forfinede, de kan starte som lidt sammenkrøllet papir, sat sammen med tape, og ende med 3D print i fuld størrelse. En prototype er ikke nødvendigvis fysisk, hvis I for eksempel arbejder med en ide til hvordan der skal tales til ældre på et plejehjem, så er prototypen måske et rollespil…</TEXT>
@@ -74,7 +74,7 @@ Prototyper og modeller er designerens grundværktøjer. Ideer skal afprøves i p
 </CARD>
 
 <CARD>
-<TITLE>KUNSTEN AT STILLE ET SPØRGSMÅL</TITLE>
+<TITLE>ASKING QUESTIONS</TITLE>
 <TEXT>Hvorfor stiller I et spørgsmål? 
 Hvordan stiller I spørgsmålet? 
 Hvem stiller spørgsmålet? 
@@ -88,10 +88,10 @@ Det er svært at stille spørgsmål. Det er svært at få svar. Hvis I prøver a
 
 
 <SECTION>
-<TITLE>UNDERSØG</TITLE>
+<TITLE>INVESTIGATE</TITLE>
 
 <CARD>
-<TITLE>HVEM ER BRUGEREN?</TITLE>
+<TITLE>WHO IS THE USER?</TITLE>
 <TEXT>Hvem er vores bruger?
 Hvad tænker hun/han om problemet/behovet?
 Hvordan ser hun/han på verden? Er der noget særligt ved vores bruger?
@@ -100,13 +100,13 @@ Hvordan ser hun/han på verden? Er der noget særligt ved vores bruger?
 </CARD>
 
 <CARD>
-<TITLE>EN DAG I LIVET</TITLE>
+<TITLE>A DAY IN THE LIFE</TITLE>
 <TEXT>Lav en liste over ALT hvad brugeren gør i løbet af en dag – lige fra morgenstunden. – med denne undersøgelse kigger I grundigt på brugerens hverdag. I sætter jer ind i hvordan brugerens hverdagsliv ser ud.</TEXT>
 <CITATION></CITATION>
 </CARD>
 
 <CARD>
-<TITLE>EN FLUE PÅ VÆGGEN</TITLE>
+<TITLE>FLY ON THE WALL</TITLE>
 <TEXT>Observer brugerne uden at blande jer. Prøv at overveje om der kan være forskel på det de SIGER at de gør og hvad de i virkeligheden gør. – denne undersøgelse hjælper jer med at se forskelle på hvad brugeren gør og siger.</TEXT>
 <CITATION></CITATION>
 </CARD>
@@ -119,31 +119,31 @@ Hvordan ser hun/han på verden? Er der noget særligt ved vores bruger?
 </CARD>
 
 <CARD>
-<TITLE>FIND SAMMENHÆNGE</TITLE>
+<TITLE>FIND CONNECTIONS</TITLE>
 <TEXT>Hvem har betydning for vores problem? Hvad mener de om hinanden? Hvem kan gøre det svært for os at løse vores problem? – Hvorfor? – denne undersøgelse giver jer overblik, og hjælper jer med at lære jeres bruger at kende. </TEXT>
 <CITATION></CITATION>
 </CARD>
 
 <CARD>
-<TITLE>SAMMENLIGN KULTUR</TITLE>
+<TITLE>COMPARE CULTURE</TITLE>
 <TEXT>Kan I se forskelle mellem brugerne? Kan I bruge forskellene til noget? Betyder forskellene noget for problemet? – denne undersøgelse giver jer overblik, og hjælper jer med at lære jeres bruger at kende. </TEXT>
 <CITATION></CITATION>
 </CARD>
 
 <CARD>
-<TITLE>KORTLÆG BRUGERENS REJSE</TITLE>
+<TITLE>MAP THE USERS JOURNEY</TITLE>
 <TEXT>Hvordan bevæger brugeren sig igennem problemet? Hvad føler brugeren om problemet? Hvad gør brugeren i forbindelse med problemet? Er brugeren sur på nogen? – denne undersøgelse giver jer overblik, og hjælper jer med at lære jeres bruger at kende.</TEXT>
 <CITATION></CITATION>
 </CARD>
 
 <Card>
-<TITLE>TAG BILLEDER</TITLE>
+<TITLE>TAKE PHOTOS</TITLE>
 <TEXT>Lav en liste over de fotos som kunne fortælle jer noget om brugerne. Gå ud og tag billederne – følg jeres liste og HUSK at spørge om lov før I fotograferer. – denne undersøgelse giver jer overblik, og hjælper jer med at lære jeres bruger at kende. </TEXT>
 <CITATION></CITATION>
 </CARD>
 
 <CARD>
-<TITLE>TEGN ET NETVÆRK</TITLE>
+<TITLE>DRAW A NETWORK</TITLE>
 <TEXT>Prøv at lave en tegning af brugerene i forhold til hinanden. Hvem kender hvem? Hvem har brug for hinanden? Hvem kan hjælpe hvem? – denne undersøgelse giver jer overblik, og hjælper jer med at lære jeres bruger at kende. </TEXT>
 <CITATION></CITATION>
 </CARD>
@@ -152,7 +152,7 @@ Hvordan ser hun/han på verden? Er der noget særligt ved vores bruger?
 
 
 <SECTION>
-<TITLE>SPØRG</TITLE>
+<TITLE>ASK</TITLE>
 
 <CARD>
 <TITLE>COLLAGE</TITLE>
@@ -161,13 +161,14 @@ Hvordan ser hun/han på verden? Er der noget særligt ved vores bruger?
 </CARD>
 
 <CARD>
-<TITLE>DEN PERSONLIGE HISTORIE</TITLE>
+<TITLE>THE PERSONAL STORY/TITLE>
 <TEXT>Bed brugeren om at fortælle jer om sin personlige opfattelse af problemet – her giver I brugeren mulighed for, med egne ord, at beskrive problemet.</TEXT>
 <CITATION></CITATION>
 </CARD>
 
 <CARD>
-<TITLE>STIL BRUGERNE HV-SPØRGSMÅL OM PROBLEMET</TITLE>
+<TITLE>ASK THE USERS W-QUESTIONS</TITLE>
+    <!-- is this the correct term? -->
 <TEXT>Hvem?
 Hvad?
 Hvorfor?
@@ -178,32 +179,32 @@ Hvor?
 </CARD>
 
 <CARD>
-<TITLE>JOURNALISTEN</TITLE>
+<TITLE>THE JOURNALIST</TITLE>
 <TEXT>Lav interviews med hinanden og brugerne om problemet. – prøv at komme hele vejen rundt om problemet – se det fra flere sider og find ud af hvad "den store historie" er.</TEXT>
 <CITATION></CITATION>
 </CARD>
 
 <CARD>
-<TITLE>KULTURSTIKPRØVER</TITLE>
+<TITLE>CULTURAL PROBES</TITLE>
 <TEXT>Spørg brugeren om hun/han vil tænke lidt over problemet over et par dage og komme tilbage med noter, billeder, video eller andre besktrivelser af hendes/hans møde med problemet. 
 – denne undersøgelse hjælper med at finde brugerens helt personlige opfattelse af problemet.</TEXT>
 <CITATION></CITATION>
 </CARD>
 
 <CARD>
-<TITLE>PROBLEMLANDSKABET</TITLE>
+<TITLE>THE PROBLEM LANDSCAPE</TITLE>
 <TEXT>Tegn et landkort over problemet sammen med jeres brugere. Prøv at gøre de dele af problemet som I synes er svære større end de lette dele. Hvis noget virkelig er svært kunne det f.eks. være en ørken… – med denne metode kan I finde ud af hvordan brugeren opfatter problemet og hvilke dele af problemt som er svære.</TEXT>
 <CITATION></CITATION>
 </CARD>
 
 <CARD>
-<TITLE>SPØRGESKEMAUNDERSØGELSE</TITLE>
+<TITLE>QUESTIONAIRE</TITLE>
 <TEXT>Prøv at spørge brugeren om problemet. Lav en række spørgsmål som kan hjælpe jer med at blive klogere på problemet. – hvis der er flere brugere er det vigtigt at I stiller dem de samme spørgsmål. Så ender I med en række besvarelser som nemt kan sammenlignes fra bruger til bruger. </TEXT>
 <CITATION></CITATION>
 </CARD>
 
 <CARD>
-<TITLE>TEGN OPLEVELSEN</TITLE>
+<TITLE>DRAW THE EXPERIENCE</TITLE>
 <TEXT>Lav en tegning af problemet sammen med brugerne. Prøv evt. også at tegne løsninger… 
 – her skaber i et fællesskab med brugeren. Det er simpelthen sjovt at tegne sammen. </TEXT>
 <CITATION></CITATION>
@@ -214,40 +215,40 @@ Hvor?
 
 
 <SECTION>
-<TITLE>PRØV</TITLE>
+<TITLE>TRY</TITLE>
 
 <CARD>
-<TITLE>PRÆSENTATION</TITLE>
+<TITLE>PRESENTATION</TITLE>
 <TEXT>Præsenter jeres arbejde for nogen som ikke har set det før. Her kan I hurtigt prøve jeres løsning af på nogen, som intet kender til den. Det er en nem måde at se om I er helt galt på den, eller ej.</TEXT>
 <CITATION></CITATION>
 </CARD>
 
 <CARD>
-<TITLE>FUNKTIONSPROTOTYPER</TITLE>
+<TITLE>FUNCTIONAL PROTOTYPES</TITLE>
 <TEXT>Lav en endelig model af jeres løsning/ide. En funktionsprototype, er en model som ligger meget tæt på jeres endelige løsning. Funktionsprototypen skal helst vise både form, farver, materialer og funktion. Er jeres design ikke fysisk kan funktionsprototypen være en video eller en præsentation.</TEXT>
 <CITATION></CITATION>
 </CARD>
 
 <CARD>
-<TITLE>BESKRIV JERES IDE SOM EN HISTORIE</TITLE>
+<TITLE>DESCRIBE YOUR IDEA AS A STORY</TITLE>
 <TEXT>Afprøv jeres ide ved at skrive – eller tegne – en kort historie. Husk at det ikke nødvendigvis skal være en god historie – I skal afprøve jeres ide ved, at beskrive hvordan den skal bruges eller udføres i praksis.</TEXT>
 <CITATION></CITATION>
 </CARD>
 
 <CARD>
-<TITLE>TEATERSTYKKE</TITLE>
+<TITLE>TURN YOUR IDEA INTO A PLAY</TITLE>
 <TEXT>Spil jeres ide, situation eller forløb som et lille teaterstykke. Prøv at genskabe den problematik som I undersøger, og brug jeres løsning aktivt. I må gerne skrive et manuskript og diskutere de forskellige roller.</TEXT>
 <CITATION></CITATION>
 </CARD>
 
 <CARD>
-<TITLE>MAL ET BILLEDE</TITLE>
+<TITLE>PAINT A PICTURE</TITLE>
 <TEXT>Indimellem er det lettere at fortælle noget med et billede… Mal, tegn, klip ud – vis jeres design, ide eller løsning.</TEXT>
 <CITATION></CITATION>
 </CARD>
 
 <Card>
-<TITLE>LAV EN FILM</TITLE>
+<TITLE>MAKE A MOVIE</TITLE>
 <TEXT>Vis hvad I vil med en lille film. Brug hvad I har til rådighed og lav en lille film, som viser hvad I vil.</TEXT>
 <CITATION></CITATION>
 </Card>
