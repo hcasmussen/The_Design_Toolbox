@@ -49,7 +49,7 @@ Design – At lægge en plan for at løse et problem – og gøre det!
 Løsningen – Den måde vi løser problemet på.
 Metode – En systematisk fremgangsmåde.
 Proces – Den samlede vej fra problem over ide til endelig løsning.
-Prototype – En mere eller mindre detaljeret model af jeres løsning
+Prototype – En mere eller mindre detaljeret model af jeres løsning.
 Undersøgelse – At finde ud af om problemet kan løses og hvem der er den del af det.</TEXT>
 <CITATION></CITATION>
 </Card>
@@ -138,10 +138,103 @@ Hvordan ser hun/han på verden? Er der noget særligt ved vores bruger?
 
 <Section>
 <TITLE>SPØRG</TITLE>
+
+<Card>
+<TITLE>COLLAGE</TITLE>
+<TEXT>Lav en billedcollage sammen med brugeren. – eller lav den selv og vis den til brugeren – En collage giver jer og brugeren noget at snakke om, og pege på, når i arbejder på at finde en løsning.</TEXT>
+<CITATION></CITATION>
+</Card>
+
+<Card>
+<TITLE>DEN PERSONLIGE HISTORIE</TITLE>
+<TEXT>Bed brugeren om at fortælle jer om sin opfattelse af problemet – her giver I brugeren mulighed for, med egne ord, at beskrive problemet.</TEXT>
+<CITATION></CITATION>
+</Card>
+
+<Card>
+<TITLE>STIL BRUGERNE HV-SPØRGSMÅL OM PROBLEMET</TITLE>
+<TEXT>Hvem?
+Hvad?
+Hvorfor?
+Hvordan?
+Hvor?
+– hv-spørgsmålene giver jer mulighed for at komme hele vejen rundt om problemet.</TEXT>
+<CITATION></CITATION>
+</Card>
+
+<Card>
+<TITLE>JOURNALISTEN</TITLE>
+<TEXT>Lav interviews med hinanden og brugerne om problemet. – prøv at komme hele vejen rundt om problemet – se det fra flere sider og find ud af hvad "den store historie" er.</TEXT>
+<CITATION></CITATION>
+</Card>
+
+<Card>
+<TITLE>KULTURSTIKPRØVER</TITLE>
+<TEXT>Spørg brugeren om hun/han vil tænke lidt over problemet over et par dage og komme tilbage med noter, billeder, video eller andre besktrivelser af hendes/hans møde med problemet. 
+– denne undersøgelse hjælper med at finde brugerens helt personlige opfattelse af problemet.</TEXT>
+<CITATION></CITATION>
+</Card>
+
+<Card>
+<TITLE>PROBLEMLANDSKABET</TITLE>
+<TEXT>Tegn et landkort over problemet sammen med jeres brugere. Prøv at gøre de dele af problemet som I synes er svære større end de lette dele. Hvis noget virkelig er svært kunne det f.eks. være en ørken… – med denne metode kan I finde ud af hvordan brugeren opfatter problemet og hvilke dele af problemt som er svære.</TEXT>
+<CITATION></CITATION>
+</Card>
+
+<Card>
+<TITLE>SPØRGESKEMAUNDERSØGELSE</TITLE>
+<TEXT>Prøv at spørge brugeren om problemet. Lav en række spørgsmål som kan hjælpe jer med at blive klogere på problemet. – hvis der er flere brugere er det vigtigt at I stiller dem de samme spørgsmål. Så ender I med en række besvarelser som nemt kan sammenlignes fra bruger til bruger. </TEXT>
+<CITATION></CITATION>
+</Card>
+
+<Card>
+<TITLE>TEGN OPLEVELSEN</TITLE>
+<TEXT>Lav en tegning af problemet sammen med brugerne. Prøv evt. også at tegne løsninger… 
+– her skaber i et fællesskab med brugeren. Det er simpelthen sjovt at tegne sammen. </TEXT>
+<CITATION></CITATION>
+</Card>
+
 </Section>
 
 <Section>
 <TITLE>PRØV</TITLE>
+
+<Card>
+<TITLE>PRÆSENTATION</TITLE>
+<TEXT>Præsenter jeres arbejde for nogen som ikke har set det før. Her kan I hurtigt prøve jeres løsning af på nogen, som intet kender til den. Det er en nem måde, at se om I er helt galt på den, eller ej.</TEXT>
+<CITATION></CITATION>
+</Card>
+
+<Card>
+<TITLE>FUNKTIONSPROTOTYPER</TITLE>
+<TEXT>Lav en endelig model af jeres løsning/ide En funktionsprototype, er en model som ligger meget tæt på jeres endelige løsning. Funktionsprototypen skal vise form, farver, materialer og funktion. Er jeres design ikke fysisk kan funktionsprototypen være en video eller en præsentation.</TEXT>
+<CITATION></CITATION>
+</Card>
+
+<Card>
+<TITLE>BESKRIV JERES IDE SOM EN HISTORIE</TITLE>
+<TEXT>Afprøv jeres ide ved at skrive – eller tegne – en kort historie. Husk at det ikke nødvendigvis skal være en god historie – I skal afprøve jeres ide ved, at beskrive hvordan den skal bruges eller udføres i praksis.</TEXT>
+<CITATION></CITATION>
+</Card>
+
+<Card>
+<TITLE>TEATERSTYKKE</TITLE>
+<TEXT>Spil jeres ide, situation eller forløb som et lille teaterstykke. Prøv at genskabe den problematik som I undersøger, og brug jeres løsning aktivt. I må gerne skrive et manuskript og diskutere de forskellige roller.</TEXT>
+<CITATION></CITATION>
+</Card>
+
+<Card>
+<TITLE>MAL ET BILLEDE</TITLE>
+<TEXT>Indimellem er det lettere at fortælle noget med et billede… Mal, tegn, klip ud – vis jeres design, ide eller løsning.</TEXT>
+<CITATION></CITATION>
+</Card>
+
+<Card>
+<TITLE>LAV EN FILM</TITLE>
+<TEXT>Vis hvad I vil med en lille film. Brug hvad I har til rådighed og lav en lille film som viser hvad I vil.</TEXT>
+<CITATION></CITATION>
+</Card>
+
 </Section>
 
 </ToolBox>
