@@ -6,12 +6,13 @@
 
 <CARD>
 <TITLE>DESIGNVÆRKTØJSKASSEN</TITLE>
-<TEXT>Designværktøjskassen er en kasse fyldt med ideer til hvordan I kan lave en designløsning. I bestemmer helt selv hvilke metoder I vil benytte – og hvor meget I vil arbejde med dem. Der er ingen helt rigtige eller helt forkerte løsninger – det er ok at have det sjovt. Første gang I bruger kassen skal I lære hvordan den fungerer – når vi har gennemgået det kan I selv bruge metoderne til at løse problemer og få ideer. Designværktøjskassen er i sig selv en prototype – den vil ændres og udvikle sig når vi bruger den. Nogle kort ryger ud andre kommer ind – det kommer alt sammen an på, hvordan kassen virker når vi begynder at bruge den. God fornøjelse! </TEXT>
+<TEXT>Designværktøjskassen er en kasse fyldt med ideer til hvordan I kan lave en designløsning. I bestemmer helt selv hvilke metoder I vil benytte – og hvor meget I vil arbejde med dem. Der er ingen helt rigtige eller helt forkerte løsninger – det er ok at have det sjovt. Første gang I bruger kassen, skal I lære hvordan den fungerer – når vi har gennemgået det, kan I selv bruge metoderne til at løse problemer og få ideer. Designværktøjskassen er i sig selv en prototype – den vil ændres og udvikle sig når vi bruger den. Nogle kort ryger ud andre kommer ind – det kommer alt sammen an på, hvordan kassen virker når vi begynder at bruge den. God fornøjelse! </TEXT>
 <CITATION></CITATION>
 </CARD>
 
 <CARD>
 <TITLE>DOBBELTDIAMANTEN</TITLE>
+    <!-- ILLUSTRATION in SVG to come -->
 <TEXT>ILLUSTRATION</TEXT>
 <CITATION>https://www.designcouncil.org.uk/news-opinion/what-framework-innovation-design-councils-evolved-double-diamond</CITATION>
 </CARD>
@@ -20,21 +21,22 @@
 <TITLE>Er DET GJORT FØR?</TITLE>
 <TEXT>Kig kritisk på jeres problem. 
 Er det allerede blevet løst? 
-Er andre, lignende, problemer blevet løst på en måde som kan give jer ideer? 
-Det her drejer sig om at undgå tidsspilde. Det er lidt ærgerligt at bruge en masse tid på at lave noget som andre har gjort før – måske endda endnu bedre end jer. </TEXT>
+Er andre, lignende, problemer blevet løst på en måde, som kan give jer ideer? 
+Det her drejer sig om at undgå tidsspilde. Det er lidt ærgerligt, at bruge en masse tid på at lave noget som andre har gjort før – måske endda endnu bedre end jer. </TEXT>
 <CITATION></CITATION>
 </CARD>
 
 <CARD>
 <TITLE>TEGNESERIE</TITLE>
-<TEXT>ILLUSTRATION</TEXT>
+  <!-- ILLUSTRATION in SVG to come -->
+<TEXT>Lav en kort tegneserie som beskriver det problem I vil løse. Det her hjælper jer til at få overblik – og måske se jeres problem fra en helt ny vinkel.</TEXT>
 <CITATION></CITATION>
 </CARD>
 
 <CARD>
 <TITLE>HVAD KUNNE GÅ GALT?</TITLE>
 <TEXT>Problemer, problemer, problemer…
-Hvis I kigger på det i vil arbejde med, hvad kunne så give problemer for jer og brugerne? – med andre ord, hvad kunne gå galt? Det her er en effektiv måde at undgå de helt store problemer. Hvis I kan være ærlige overfor hinanden og kigge kritisk på jeres emne, så vil I hurtigt kunne droppe mindre gode emner og ideer.  </TEXT>
+Hvis I kigger på det i vil arbejde med, hvad kunne så give problemer for jer og brugerne? – med andre ord, hvad kunne gå galt? Det her er en effektiv måde, at undgå de helt store problemer. Hvis I kan være ærlige overfor hinanden og kigge kritisk på jeres emne, så vil I hurtigt kunne droppe mindre gode emner og ideer.  </TEXT>
 <CITATION></CITATION>
 </CARD>
 
@@ -67,7 +69,7 @@ Undersøgelse – At finde ud af om problemet kan løses og hvem der er den del 
 <TITLE>Prototyper</TITLE>
 <TEXT>lav en model af jeres løsning/ide 
 – I kan bruge hvad som helst til at lave en prototype. Et par stole kan blive til et klasseværelse og et stykke pap kan være en mobil. Prototypen hjælper jer til at gennemprøve jeres ide i den virkelige verden. 
-Prototyper og modeller er designerens grundværktøjer. Ideer skal afprøves i praksis. Det giver jer mulighed for at se om I er på rette vej mod en løsning af jeres problem. Igennem designprocessen bliver prototyperne mere og mere forfinede, de kan starte som lidt sammenkrøllet papir sat sammen med tape og ende med 3D print i fuld størrelse. En prototype er ikke nødvendigvis fysisk, hvis I for eksempel arbejder med en ide til hvordan der skal tales til ældre på et plejehjem, så er prototypen måske et rollespil…</TEXT>
+Prototyper og modeller er designerens grundværktøjer. Ideer skal afprøves i praksis. Det giver jer mulighed for at se om I er på rette vej mod en løsning af jeres problem. Igennem designprocessen bliver prototyperne mere og mere forfinede, de kan starte som lidt sammenkrøllet papir, sat sammen med tape, og ende med 3D print i fuld størrelse. En prototype er ikke nødvendigvis fysisk, hvis I for eksempel arbejder med en ide til hvordan der skal tales til ældre på et plejehjem, så er prototypen måske et rollespil…</TEXT>
 <CITATION></CITATION>
 </CARD>
 
@@ -77,7 +79,7 @@ Prototyper og modeller er designerens grundværktøjer. Ideer skal afprøves i p
 Hvordan stiller I spørgsmålet? 
 Hvem stiller spørgsmålet? 
 Hvem spørger I? 
-Det er svært at stille spørgsmål. Det er svært at få svar. Hvis I prøver at finde ud af hvad brugerne mener om jeres problem eller jeres løsning/ide så kommer I nemt til at spørge ledene. Kig for eksempel på spørgsmålet: "Synes du ikke at vores ide er god?" overfor: "Hvad mener du om vores ide? Det første spørgsmål fortæller hvilket svar I ønsker, det næste gør ikke. Når I spørger jeres brugere om noget – hvadsomhelst – er det vigtigt at I har stillet jer selv spørgsmålene: Hvorfor, Hvordan, Hvem spørger, Hvem spørges. Hvis ikke I har styr på det her, så kan I ikke regne med de svar I får.</TEXT>
+Det er svært at stille spørgsmål. Det er svært at få svar. Hvis I prøver at finde ud af hvad brugerne mener om jeres problem eller jeres løsning/ide så kommer I nemt til at spørge ledende. Kig for eksempel på spørgsmålet: "Synes du ikke at vores ide er god?" overfor: "Hvad mener du om vores ide? Det første spørgsmål fortæller hvilket svar I ønsker, det næste gør ikke. Når I spørger jeres brugere om noget – hvadsomhelst – er det vigtigt at I har stillet jer selv spørgsmålene: Hvorfor, Hvordan, Hvem spørger, Hvem spørges. Hvis ikke I har styr på det her, så kan I ikke regne med de svar I får.</TEXT>
 <CITATION></CITATION>
 </CARD>
 
@@ -92,7 +94,7 @@ Det er svært at stille spørgsmål. Det er svært at få svar. Hvis I prøver a
 <TITLE>HVEM ER BRUGEREN?</TITLE>
 <TEXT>Hvem er vores bruger?
 Hvad tænker hun/han om problemet/behovet?
-Hvordan ser hun/han på verden? Er der noget særligt ved vores bruger?
+Hvordan ser hun/han på verden? Er der noget særligt ved vores bruger?
 – denne undersøgelse giver jer overblik, og hjælper jer med at lære jeres bruger at kende. </TEXT>
 <CITATION></CITATION>
 </CARD>
@@ -118,7 +120,7 @@ Hvordan ser hun/han på verden? Er der noget særligt ved vores bruger?
 
 <CARD>
 <TITLE>FIND SAMMENHÆNGE</TITLE>
-<TEXT>Hvem har betydning for vores problem? Hvad mener de om hinanden? Hvem kan gøre det svært for os at løse vores problem? – Hvorfor? – denne undersøgelse giver jer overblik, og hjælper jer med at lære jeres bruger at kende. </TEXT>
+<TEXT>Hvem har betydning for vores problem? Hvad mener de om hinanden? Hvem kan gøre det svært for os at løse vores problem? – Hvorfor? – denne undersøgelse giver jer overblik, og hjælper jer med at lære jeres bruger at kende. </TEXT>
 <CITATION></CITATION>
 </CARD>
 
@@ -154,13 +156,13 @@ Hvordan ser hun/han på verden? Er der noget særligt ved vores bruger?
 
 <CARD>
 <TITLE>COLLAGE</TITLE>
-<TEXT>Lav en billedcollage sammen med brugeren. – eller lav den selv og vis den til brugeren – En collage giver jer og brugeren noget at snakke om, og pege på, når i arbejder på at finde en løsning.</TEXT>
+<TEXT>Lav en billedcollage sammen med brugeren – eller lav den selv og vis den til brugeren. En collage giver jer og brugeren noget at snakke om, og pege på, når i arbejder på at finde en løsning.</TEXT>
 <CITATION></CITATION>
 </CARD>
 
 <CARD>
 <TITLE>DEN PERSONLIGE HISTORIE</TITLE>
-<TEXT>Bed brugeren om at fortælle jer om sin opfattelse af problemet – her giver I brugeren mulighed for, med egne ord, at beskrive problemet.</TEXT>
+<TEXT>Bed brugeren om at fortælle jer om sin personlige opfattelse af problemet – her giver I brugeren mulighed for, med egne ord, at beskrive problemet.</TEXT>
 <CITATION></CITATION>
 </CARD>
 
@@ -216,13 +218,13 @@ Hvor?
 
 <CARD>
 <TITLE>PRÆSENTATION</TITLE>
-<TEXT>Præsenter jeres arbejde for nogen som ikke har set det før. Her kan I hurtigt prøve jeres løsning af på nogen, som intet kender til den. Det er en nem måde, at se om I er helt galt på den, eller ej.</TEXT>
+<TEXT>Præsenter jeres arbejde for nogen som ikke har set det før. Her kan I hurtigt prøve jeres løsning af på nogen, som intet kender til den. Det er en nem måde at se om I er helt galt på den, eller ej.</TEXT>
 <CITATION></CITATION>
 </CARD>
 
 <CARD>
 <TITLE>FUNKTIONSPROTOTYPER</TITLE>
-<TEXT>Lav en endelig model af jeres løsning/ide En funktionsprototype, er en model som ligger meget tæt på jeres endelige løsning. Funktionsprototypen skal vise form, farver, materialer og funktion. Er jeres design ikke fysisk kan funktionsprototypen være en video eller en præsentation.</TEXT>
+<TEXT>Lav en endelig model af jeres løsning/ide. En funktionsprototype, er en model som ligger meget tæt på jeres endelige løsning. Funktionsprototypen skal helst vise både form, farver, materialer og funktion. Er jeres design ikke fysisk kan funktionsprototypen være en video eller en præsentation.</TEXT>
 <CITATION></CITATION>
 </CARD>
 
@@ -246,7 +248,7 @@ Hvor?
 
 <Card>
 <TITLE>LAV EN FILM</TITLE>
-<TEXT>Vis hvad I vil med en lille film. Brug hvad I har til rådighed og lav en lille film som viser hvad I vil.</TEXT>
+<TEXT>Vis hvad I vil med en lille film. Brug hvad I har til rådighed og lav en lille film, som viser hvad I vil.</TEXT>
 <CITATION></CITATION>
 </Card>
 
