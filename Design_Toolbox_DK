@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
 <ToolBox>
 <Section>
 <TITLE>Overblik</TITLE>
@@ -74,6 +76,8 @@ Det er svært at stille spørgsmål. Det er svært at få svar. Hvis I prøver a
 
 </Section>
 
+
+
 <Section>
 <TITLE>UNDERSØG</TITLE>
 
@@ -136,6 +140,8 @@ Hvordan ser hun/han på verden? Er der noget særligt ved vores bruger?
 </Card>
 </Section>
 
+
+
 <Section>
 <TITLE>SPØRG</TITLE>
 
@@ -195,6 +201,8 @@ Hvor?
 </Card>
 
 </Section>
+
+
 
 <Section>
 <TITLE>PRØV</TITLE>
