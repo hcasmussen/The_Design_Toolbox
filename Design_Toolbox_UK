@@ -78,10 +78,13 @@ Prototypes and models are the designers base tools. Ideas need to be tested in a
 
 <CARD>
 <TITLE>ASKING QUESTIONS</TITLE>
-<TEXT>Hvorfor stiller I et spørgsmål? 
-Hvordan stiller I spørgsmålet? 
-Hvem stiller spørgsmålet? 
-Hvem spørger I? 
+<TEXT>
+Why are you asking a question?
+How do you ask you question?
+Who is asking the question?
+Who do you ask?
+
+Asking questions is hard. Getting answers is hard, too. If you try to find out what the users think about your problem you may end up asking leading questions. Consider this question, "Don't you think that our idea is good?" as opposed to this, "What do toy think about our idea?". In the first question you ask for a specific answer – the second does not.
 Det er svært at stille spørgsmål. Det er svært at få svar. Hvis I prøver at finde ud af hvad brugerne mener om jeres problem eller jeres løsning/ide så kommer I nemt til at spørge ledende. Kig for eksempel på spørgsmålet: "Synes du ikke at vores ide er god?" overfor: "Hvad mener du om vores ide? Det første spørgsmål fortæller hvilket svar I ønsker, det næste gør ikke. Når I spørger jeres brugere om noget – hvadsomhelst – er det vigtigt at I har stillet jer selv spørgsmålene: Hvorfor, Hvordan, Hvem spørger, Hvem spørges. Hvis ikke I har styr på det her, så kan I ikke regne med de svar I får.</TEXT>
 <CITATION></CITATION>
 </CARD>
@@ -95,7 +98,9 @@ Det er svært at stille spørgsmål. Det er svært at få svar. Hvis I prøver a
 
 <CARD>
 <TITLE>WHO IS THE USER?</TITLE>
-<TEXT>Hvem er vores bruger?
+<TEXT>Who is our user?
+
+
 Hvad tænker hun/han om problemet/behovet?
 Hvordan ser hun/han på verden? Er der noget særligt ved vores bruger?
 – denne undersøgelse giver jer overblik, og hjælper jer med at lære jeres bruger at kende. </TEXT>
